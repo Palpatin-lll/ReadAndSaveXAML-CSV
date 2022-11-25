@@ -1,0 +1,113 @@
+D:\л\11.10.2022\11.10.2022\bin\Debug\11.10.2022.exe.config
+D:\л\11.10.2022\11.10.2022\bin\Debug\11.10.2022.exe
+D:\л\11.10.2022\11.10.2022\bin\Debug\11.10.2022.pdb
+D:\л\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.DataSet.dll
+D:\л\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.dll
+D:\л\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.pdb
+D:\л\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.xml
+D:\л\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\л\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.DataSet.xml
+D:\л\11.10.2022\11.10.2022\obj\Debug\11.10.2022.csproj.AssemblyReference.cache
+D:\л\11.10.2022\11.10.2022\obj\Debug\11.10.2022.csproj.ResolveComReference.cache
+D:\л\11.10.2022\11.10.2022\obj\Debug\MainWindow.g.cs
+D:\л\11.10.2022\11.10.2022\obj\Debug\App.g.cs
+D:\л\11.10.2022\11.10.2022\obj\Debug\11.10.2022_MarkupCompile.cache
+D:\л\11.10.2022\11.10.2022\obj\Debug\11.10.2022_MarkupCompile.lref
+D:\л\11.10.2022\11.10.2022\obj\Debug\MainWindow.baml
+D:\л\11.10.2022\11.10.2022\obj\Debug\11.10.2022.g.resources
+D:\л\11.10.2022\11.10.2022\obj\Debug\_11._10._2022.Properties.Resources.resources
+D:\л\11.10.2022\11.10.2022\obj\Debug\11.10.2022.csproj.GenerateResource.cache
+D:\л\11.10.2022\11.10.2022\obj\Debug\11.10.2022.csproj.CoreCompileInputs.cache
+D:\л\11.10.2022\11.10.2022\obj\Debug\11.10.2022.csproj.CopyComplete
+D:\л\11.10.2022\11.10.2022\obj\Debug\11.10.2022.exe
+D:\л\11.10.2022\11.10.2022\obj\Debug\11.10.2022.pdb
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\bin\Debug\11.10.2022.exe.config
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\bin\Debug\11.10.2022.exe
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\bin\Debug\11.10.2022.pdb
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.DataSet.dll
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.dll
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.pdb
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.xml
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.DataSet.xml
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\obj\Debug\11.10.2022.csproj.AssemblyReference.cache
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\obj\Debug\11.10.2022.csproj.SuggestedBindingRedirects.cache
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\obj\Debug\11.10.2022.csproj.ResolveComReference.cache
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\obj\Debug\MainWindow.g.cs
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\obj\Debug\App.g.cs
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\obj\Debug\11.10.2022_MarkupCompile.cache
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\obj\Debug\11.10.2022_MarkupCompile.lref
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\obj\Debug\MainWindow.baml
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\obj\Debug\11.10.2022.g.resources
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\obj\Debug\_11._10._2022.Properties.Resources.resources
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\obj\Debug\11.10.2022.csproj.GenerateResource.cache
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\obj\Debug\11.10.2022.csproj.CoreCompileInputs.cache
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\obj\Debug\11.10.2022.csproj.CopyComplete
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\obj\Debug\11.10.2022.exe
+E:\Рабочий стол и всякая хуйня\sterextype\фы\11.10.2022\11.10.2022\obj\Debug\11.10.2022.pdb
+C:\Users\79775\Downloads\Дерябин Глеб 4ИСИП-519 11.10.2022\11.10.2022\11.10.2022\bin\Debug\11.10.2022.exe.config
+C:\Users\79775\Downloads\Дерябин Глеб 4ИСИП-519 11.10.2022\11.10.2022\11.10.2022\bin\Debug\11.10.2022.exe
+C:\Users\79775\Downloads\Дерябин Глеб 4ИСИП-519 11.10.2022\11.10.2022\11.10.2022\bin\Debug\11.10.2022.pdb
+C:\Users\79775\Downloads\Дерябин Глеб 4ИСИП-519 11.10.2022\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\79775\Downloads\Дерябин Глеб 4ИСИП-519 11.10.2022\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.dll
+C:\Users\79775\Downloads\Дерябин Глеб 4ИСИП-519 11.10.2022\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.pdb
+C:\Users\79775\Downloads\Дерябин Глеб 4ИСИП-519 11.10.2022\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.xml
+C:\Users\79775\Downloads\Дерябин Глеб 4ИСИП-519 11.10.2022\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\79775\Downloads\Дерябин Глеб 4ИСИП-519 11.10.2022\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\79775\Downloads\Дерябин Глеб 4ИСИП-519 11.10.2022\11.10.2022\11.10.2022\obj\Debug\11.10.2022.csproj.AssemblyReference.cache
+C:\Users\79775\Downloads\Дерябин Глеб 4ИСИП-519 11.10.2022\11.10.2022\11.10.2022\obj\Debug\11.10.2022.csproj.ResolveComReference.cache
+C:\Users\79775\Downloads\Дерябин Глеб 4ИСИП-519 11.10.2022\11.10.2022\11.10.2022\obj\Debug\MainWindow.g.cs
+C:\Users\79775\Downloads\Дерябин Глеб 4ИСИП-519 11.10.2022\11.10.2022\11.10.2022\obj\Debug\App.g.cs
+C:\Users\79775\Downloads\Дерябин Глеб 4ИСИП-519 11.10.2022\11.10.2022\11.10.2022\obj\Debug\11.10.2022_MarkupCompile.cache
+C:\Users\79775\Downloads\Дерябин Глеб 4ИСИП-519 11.10.2022\11.10.2022\11.10.2022\obj\Debug\11.10.2022_MarkupCompile.lref
+C:\Users\79775\Downloads\Дерябин Глеб 4ИСИП-519 11.10.2022\11.10.2022\11.10.2022\obj\Debug\MainWindow.baml
+C:\Users\79775\Downloads\Дерябин Глеб 4ИСИП-519 11.10.2022\11.10.2022\11.10.2022\obj\Debug\11.10.2022.g.resources
+C:\Users\79775\Downloads\Дерябин Глеб 4ИСИП-519 11.10.2022\11.10.2022\11.10.2022\obj\Debug\_11._10._2022.Properties.Resources.resources
+C:\Users\79775\Downloads\Дерябин Глеб 4ИСИП-519 11.10.2022\11.10.2022\11.10.2022\obj\Debug\11.10.2022.csproj.GenerateResource.cache
+C:\Users\79775\Downloads\Дерябин Глеб 4ИСИП-519 11.10.2022\11.10.2022\11.10.2022\obj\Debug\11.10.2022.csproj.CoreCompileInputs.cache
+C:\Users\79775\Downloads\Дерябин Глеб 4ИСИП-519 11.10.2022\11.10.2022\11.10.2022\obj\Debug\11.10.2022.exe
+C:\Users\79775\Downloads\Дерябин Глеб 4ИСИП-519 11.10.2022\11.10.2022\11.10.2022\obj\Debug\11.10.2022.pdb
+C:\Users\79775\Downloads\работы по Логачев\11.10.2022\11.10.2022\bin\Debug\11.10.2022.exe.config
+C:\Users\79775\Downloads\работы по Логачев\11.10.2022\11.10.2022\bin\Debug\11.10.2022.exe
+C:\Users\79775\Downloads\работы по Логачев\11.10.2022\11.10.2022\bin\Debug\11.10.2022.pdb
+C:\Users\79775\Downloads\работы по Логачев\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\79775\Downloads\работы по Логачев\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.dll
+C:\Users\79775\Downloads\работы по Логачев\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.pdb
+C:\Users\79775\Downloads\работы по Логачев\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.xml
+C:\Users\79775\Downloads\работы по Логачев\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\79775\Downloads\работы по Логачев\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\79775\Downloads\работы по Логачев\11.10.2022\11.10.2022\obj\Debug\11.10.2022.csproj.AssemblyReference.cache
+C:\Users\79775\Downloads\работы по Логачев\11.10.2022\11.10.2022\obj\Debug\11.10.2022.csproj.ResolveComReference.cache
+C:\Users\79775\Downloads\работы по Логачев\11.10.2022\11.10.2022\obj\Debug\MainWindow.g.cs
+C:\Users\79775\Downloads\работы по Логачев\11.10.2022\11.10.2022\obj\Debug\App.g.cs
+C:\Users\79775\Downloads\работы по Логачев\11.10.2022\11.10.2022\obj\Debug\11.10.2022_MarkupCompile.cache
+C:\Users\79775\Downloads\работы по Логачев\11.10.2022\11.10.2022\obj\Debug\11.10.2022_MarkupCompile.lref
+C:\Users\79775\Downloads\работы по Логачев\11.10.2022\11.10.2022\obj\Debug\MainWindow.baml
+C:\Users\79775\Downloads\работы по Логачев\11.10.2022\11.10.2022\obj\Debug\11.10.2022.g.resources
+C:\Users\79775\Downloads\работы по Логачев\11.10.2022\11.10.2022\obj\Debug\_11._10._2022.Properties.Resources.resources
+C:\Users\79775\Downloads\работы по Логачев\11.10.2022\11.10.2022\obj\Debug\11.10.2022.csproj.GenerateResource.cache
+C:\Users\79775\Downloads\работы по Логачев\11.10.2022\11.10.2022\obj\Debug\11.10.2022.csproj.CoreCompileInputs.cache
+C:\Users\79775\Downloads\работы по Логачев\11.10.2022\11.10.2022\obj\Debug\11.10.2022.exe
+C:\Users\79775\Downloads\работы по Логачев\11.10.2022\11.10.2022\obj\Debug\11.10.2022.pdb
+C:\Users\79775\Downloads\работы по Логачев\Чтение xaml и csv\11.10.2022\11.10.2022\bin\Debug\11.10.2022.exe.config
+C:\Users\79775\Downloads\работы по Логачев\Чтение xaml и csv\11.10.2022\11.10.2022\bin\Debug\11.10.2022.exe
+C:\Users\79775\Downloads\работы по Логачев\Чтение xaml и csv\11.10.2022\11.10.2022\bin\Debug\11.10.2022.pdb
+C:\Users\79775\Downloads\работы по Логачев\Чтение xaml и csv\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\79775\Downloads\работы по Логачев\Чтение xaml и csv\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.dll
+C:\Users\79775\Downloads\работы по Логачев\Чтение xaml и csv\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.pdb
+C:\Users\79775\Downloads\работы по Логачев\Чтение xaml и csv\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.xml
+C:\Users\79775\Downloads\работы по Логачев\Чтение xaml и csv\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\79775\Downloads\работы по Логачев\Чтение xaml и csv\11.10.2022\11.10.2022\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\79775\Downloads\работы по Логачев\Чтение xaml и csv\11.10.2022\11.10.2022\obj\Debug\11.10.2022.csproj.AssemblyReference.cache
+C:\Users\79775\Downloads\работы по Логачев\Чтение xaml и csv\11.10.2022\11.10.2022\obj\Debug\11.10.2022.csproj.ResolveComReference.cache
+C:\Users\79775\Downloads\работы по Логачев\Чтение xaml и csv\11.10.2022\11.10.2022\obj\Debug\MainWindow.g.cs
+C:\Users\79775\Downloads\работы по Логачев\Чтение xaml и csv\11.10.2022\11.10.2022\obj\Debug\App.g.cs
+C:\Users\79775\Downloads\работы по Логачев\Чтение xaml и csv\11.10.2022\11.10.2022\obj\Debug\11.10.2022_MarkupCompile.cache
+C:\Users\79775\Downloads\работы по Логачев\Чтение xaml и csv\11.10.2022\11.10.2022\obj\Debug\11.10.2022_MarkupCompile.lref
+C:\Users\79775\Downloads\работы по Логачев\Чтение xaml и csv\11.10.2022\11.10.2022\obj\Debug\MainWindow.baml
+C:\Users\79775\Downloads\работы по Логачев\Чтение xaml и csv\11.10.2022\11.10.2022\obj\Debug\11.10.2022.g.resources
+C:\Users\79775\Downloads\работы по Логачев\Чтение xaml и csv\11.10.2022\11.10.2022\obj\Debug\_11._10._2022.Properties.Resources.resources
+C:\Users\79775\Downloads\работы по Логачев\Чтение xaml и csv\11.10.2022\11.10.2022\obj\Debug\11.10.2022.csproj.GenerateResource.cache
+C:\Users\79775\Downloads\работы по Логачев\Чтение xaml и csv\11.10.2022\11.10.2022\obj\Debug\11.10.2022.csproj.CoreCompileInputs.cache
+C:\Users\79775\Downloads\работы по Логачев\Чтение xaml и csv\11.10.2022\11.10.2022\obj\Debug\11.10.2022.exe
+C:\Users\79775\Downloads\работы по Логачев\Чтение xaml и csv\11.10.2022\11.10.2022\obj\Debug\11.10.2022.pdb
